@@ -1,0 +1,28 @@
+Component Name : A4988Stepper
+
+Part Count : 2
+
+Part : A4988 Stepper
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : A4988 Stepper
+     Pins - (Normal) : 16
+          En/            1              Passive
+          MS1            2              Passive
+          DIR            8              Passive
+          STEP           7              Passive
+          Sleep/         6              Passive
+          RST            5              Passive
+          MS3            4              Passive
+          MS2            3              Passive
+          GND            9              Passive
+          VDD            10             Passive
+          1B             11             Passive
+          1A             12             Passive
+          2A             13             Passive
+          2B             14             Passive
+          GND            15             Passive
+          VMOT           16             Passive
+          Hidden Pins : 
+

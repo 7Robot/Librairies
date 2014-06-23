@@ -1,0 +1,49 @@
+CSV text has been written to file : 7Robot.csv
+
+Library Component Count : 42
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+A4988Stepper        
+Arduino UNO         
+CAP                 Capacitor
+CAP Pol             Polarized Capacitor
+Diode               Default Diode
+FT232RL             USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tube
+Fuse                Standard Fuse Holder
+Header 10           Header, 10-Pin
+Header 2            Header, 2-Pin
+Header 3            Header, 3-Pin
+Header 4            Header, 4-Pin
+Header 5            Header, 5-Pin
+Header 6            Header, 6-Pin
+Header 7            Header, 7-Pin
+Header 8            Header, 8-Pin
+Header 9            Header, 9-Pin
+Header ICSP         Header, 6-Pin, Right Angle
+Hole                Mounting Hole for screws
+IDC 10              Header, 5-Pin, Dual row
+IRF640              N-Channel MOSFET, D2PAK (T0-263), InternationalRectifier
+L6201P              DMOS Full Bridge Driver
+L7805CD2T           5V Linear Regulator, D2PAK, ST Microelectronics
+LED                 Typical LED
+LM2937IMP-3.3       500 mA Low Dropout Regulator
+POT                 Potentiometer
+PTB78560x           Texas Instruments Regulators
+PTH08000W           
+PTN78020W           
+RES                 Resistor
+SN74CBTD3861        10-bit FET bus level shifting switch
+SPST-NO             Tactile Switch 7.3mm, SMD
+SW-DPDT             Double-Pole, Double-Throw Switch, ref MCLSS22
+SW-SPDT             Slide Switch with 2 positions
+TPS2044             Power distribution USB
+TSOP7000            Vishay 455kHz IR Receiver
+TUSB2046BVF         TI 4-Port USB Hub
+USB Con             USB Connector
+XBEE                XBEE (Pro ou pas)
+XTAL                Crystal Oscillator
+Zener               Zener Diode
+arduino             
+dsPIC33FJ64MC804-I/PTHigh-Performance 16-bit Digital Signal Controller, 64 KB Flash, 16 KB RAM, 44-Pin TQFP, Industrial Temperature
